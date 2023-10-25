@@ -9,6 +9,9 @@ body{
     width: 20px;
     display: none;
 }
+#head img:hover{
+    cursor:pointer;
+}
 #head ul{
     display: flex;
     justify-content: right;
